@@ -37,10 +37,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devashik143&show_icons=true&locale=en" alt="devashik143" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devashik143&" alt="devashik143" /></p>
-
-
-<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js"></script>
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css">
