@@ -1,4 +1,4 @@
-<img src="https://scontent.xx.fbcdn.net/v/t1.15752-9/458351806_2465459240472686_2694248226724472763_n.jpg?stp=dst-jpg_s552x414&_nc_cat=111&ccb=1-7&_nc_sid=0024fc&_nc_eui2=AeE5Oa73T1UiGPK6XxJLPzkkYymMFpA9gPFjKYwWkD2A8XG9gPMmpxqGbL0oh9phAyacuv3XufSOFg_XUCFwegJM&_nc_ohc=hC9D9o9EdzwQ7kNvgEYlZb1&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_Q7cD1QFVDrte6QcuOaUoD_sGJkunWSDLLyUvdM2uPOGfmZSSFQ&oe=67108577">
+<img style="margin: 0 auto; margin-left: 30%;" src="https://scontent.xx.fbcdn.net/v/t1.15752-9/458351806_2465459240472686_2694248226724472763_n.jpg?stp=dst-jpg_s552x414&_nc_cat=111&ccb=1-7&_nc_sid=0024fc&_nc_eui2=AeE5Oa73T1UiGPK6XxJLPzkkYymMFpA9gPFjKYwWkD2A8XG9gPMmpxqGbL0oh9phAyacuv3XufSOFg_XUCFwegJM&_nc_ohc=hC9D9o9EdzwQ7kNvgEYlZb1&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_Q7cD1QFVDrte6QcuOaUoD_sGJkunWSDLLyUvdM2uPOGfmZSSFQ&oe=67108577">
 <h1 align="center">This is ASHIKUR RAHMAN</h1>
 <h3 align="center">A professional Full Stack Web Developer</h3>
 
@@ -37,3 +37,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devashik143&show_icons=true&locale=en" alt="devashik143" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devashik143&" alt="devashik143" /></p>
+
+
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js"></script>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css">
