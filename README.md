@@ -1,8 +1,8 @@
-<img class="container-fluid" align="center" style="margin: 0 auto; margin-left: 30%;" src="https://scontent.xx.fbcdn.net/v/t1.15752-9/458351806_2465459240472686_2694248226724472763_n.jpg?stp=dst-jpg_s552x414&_nc_cat=111&ccb=1-7&_nc_sid=0024fc&_nc_eui2=AeE5Oa73T1UiGPK6XxJLPzkkYymMFpA9gPFjKYwWkD2A8XG9gPMmpxqGbL0oh9phAyacuv3XufSOFg_XUCFwegJM&_nc_ohc=hC9D9o9EdzwQ7kNvgEYlZb1&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_Q7cD1QFVDrte6QcuOaUoD_sGJkunWSDLLyUvdM2uPOGfmZSSFQ&oe=67108577">
+<img class="container-fluid" align="center" style="margin: 0 auto; margin-left: %;" src="https://scontent.xx.fbcdn.net/v/t1.15752-9/462570499_1602104420515208_806965843519851670_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=0024fc&_nc_eui2=AeHKbhdRYXnpXcgpfoy9Ikgf5N1I3JGwWc3k3UjckbBZzRBwEHn7i8sQGVrrNsLDw9q-gz2HCyuDDbvkzTY_Vk7G&_nc_ohc=cC-ISxbcS0sQ7kNvgF5D9dN&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD1QEVGqODTUUPbSEicB2z8zRIfxyIiUP9CJS_HRWFZ-H7_w&oe=675A9FF8">
 <h1 align="center">This is ASHIKUR RAHMAN</h1>
 <h3 align="center">A professional Full Stack Web Developer</h3>
 
-<p align="left"> <img src="https://scontent.xx.fbcdn.net/v/t1.15752-9/458496520_522948763479530_925058781587437893_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=0024fc&_nc_eui2=AeGKXYf2rjbn1nXs9NLgLykud9yvLufxC8N33K8u5_ELw4z3vcknI_lgywGp88dKCyWyCCMDEmE5zyFduDql2zjB&_nc_ohc=2uGBcI-kQbIQ7kNvgHpKl1b&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_Q7cD1QEiWb3mZ8o_KqU6D7Cw4JuS2dda7QnQEvN5QluyquMMqQ&oe=6710AFC9" alt="devashik143" /> </p>
+<p align="left"> <img src="https://scontent.xx.fbcdn.net/v/t1.15752-9/465692038_1093292159043839_1951330133384308280_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=0024fc&_nc_eui2=AeFebR1cecYKuV0lTD4oUhtQoEuNxsFSRjCgS43GwVJGMNbzIZJCD1DJC0K3euxECmovnK6eKylLuKjniejUGZ-u&_nc_ohc=d5mwCb9RZkIQ7kNvgGrqMb-&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD1QHkI4rRNP1E5lwF0teOPMbeTHXISLghdyAGnrOocV-2kg&oe=675A9D1F" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devashik143" alt="devashik143" /></a> </p>
 
