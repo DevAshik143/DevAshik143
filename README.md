@@ -1,8 +1,8 @@
-<img class="container-fluid" align="center" style="margin: 0 auto; margin-left: %;" src="https://scontent.xx.fbcdn.net/v/t1.15752-9/462570499_1602104420515208_806965843519851670_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=0024fc&_nc_eui2=AeHKbhdRYXnpXcgpfoy9Ikgf5N1I3JGwWc3k3UjckbBZzRBwEHn7i8sQGVrrNsLDw9q-gz2HCyuDDbvkzTY_Vk7G&_nc_ohc=cC-ISxbcS0sQ7kNvgF5D9dN&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD1QEVGqODTUUPbSEicB2z8zRIfxyIiUP9CJS_HRWFZ-H7_w&oe=675A9FF8">
+<img class="container-fluid" align="center" style="margin: 0 auto; margin-left: %;" src="https://i.postimg.cc/fW0j5yd3/1723997049571.jpg">
 <h1 align="center">This is ASHIKUR RAHMAN</h1>
 <h3 align="center">A professional Full Stack Web Developer</h3>
 
-<p align="left"> <img src="https://scontent.xx.fbcdn.net/v/t1.15752-9/465692038_1093292159043839_1951330133384308280_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=0024fc&_nc_eui2=AeFebR1cecYKuV0lTD4oUhtQoEuNxsFSRjCgS43GwVJGMNbzIZJCD1DJC0K3euxECmovnK6eKylLuKjniejUGZ-u&_nc_ohc=d5mwCb9RZkIQ7kNvgGrqMb-&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD1QHkI4rRNP1E5lwF0teOPMbeTHXISLghdyAGnrOocV-2kg&oe=675A9D1F" /> </p>
+<p align="left"> <img src="https://i.postimg.cc/sDdPLzPT/download-1.jpg" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devashik143" alt="devashik143" /></a> </p>
 
